@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">My name is Dinara and I'm a Frontend Developer who loves to work with JavaScript technologies. <br/> 
-Right now my mind is focused on learning everything that is related to Web Development, including React.JS, Express, Node.js, Jest etc.<br/>  I'm also passionate about exploring new technologies. 
+Right now my mind is focused on learning everything that is related to Web Development, including React.JS, Node.js, JS.<br/>  I'm also passionate about exploring new technologies. 
 </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
